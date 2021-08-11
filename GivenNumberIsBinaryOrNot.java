@@ -32,6 +32,7 @@ public class GivenNumberIsBinaryOrNot {
 	public static void main(String[] args) {
 	  
 		isBinary(111001);
+		isBinary(23456);
 	}
 
 }
